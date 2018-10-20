@@ -18,20 +18,24 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 
 ### Domains
 
-- Business
-- Cultural
-- Organizational
-- Tecnical
+:hearts: Business
+:hearts: Cultural
+:hearts: Organizational
+:hearts: Tecnical
 
 ### Type of Content
 
-- Blog Post
-- Video
-- Graphs and Models
-- Laws and Adages
-- Book
+:hearts: Blog Post
+:hearts: Video
+:hearts: Graphs and Models
+:hearts: Laws and Adages
+:hearts: Book
 
 ## In English
+
+Type | Title | Domain
+---- | ----  | ----
+Blog Post | [name](link) | Technical
 
 ## In Portuguese
 
