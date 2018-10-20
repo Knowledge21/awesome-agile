@@ -25,13 +25,13 @@ Business | Cultural | Organizational | Technical
 ### Type of Content
 
 Blog Post | Video | Graphs and Models | Laws and Adages | Book
-:---: | :---: | :---: | ---- | :---:
+:---: | :---: | :---: | :---: | :---:
 :hearts: | :hearts: | :hearts: | :hearts: | :hearts:
 
 ## In English
 
-Type | Title | Domain
---- | ---  | ---
+Type | Title | Domain | Inside of Topic
+--- | ---  | --- | ---
 Blog Post | [name](link) | Technical
 
 ## In Portuguese
