@@ -25,7 +25,7 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 
 ## In English
 
-Type | Title | Domain | Is a must? | Inside of Topic
+Type | Title | Domains | Is a must? | Inside of Topic
 --- | ---  | --- | --- | ---
 Blog Post | [name](link) | :shipit: | :exclamation: | something...
 
