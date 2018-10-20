@@ -18,8 +18,9 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 
 ### Domains
 
----- | ---- | ---- | ----
-:hearts: Business | :hearts: Cultural | :hearts: Organizational | :hearts: Tecnical
+Business | Cultural | Organizational | Technical
+---- | ---- | --- | ----
+:hearts: | :hearts: | :hearts: | :hearts:
 
 ### Type of Content
 
