@@ -19,7 +19,7 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 ### Domains
 
 Business | Cultural | Organizational | Technical
----- | ---- | --- | ----
+:---: | :---: | :---: | :----:
 :hearts: | :hearts: | :hearts: | :hearts:
 
 ### Type of Content
@@ -30,7 +30,7 @@ Business | Cultural | Organizational | Technical
 ## In English
 
 Type | Title | Domain
----- | ----  | ----
+--- | ---  | ---
 Blog Post | [name](link) | Technical
 
 ## In Portuguese
