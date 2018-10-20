@@ -24,8 +24,9 @@ Business | Cultural | Organizational | Technical
 
 ### Type of Content
 
----- | ---- | ---- | ---- | ----
-:hearts: Blog Post | :hearts: Video | :hearts: Graphs and Models | :hearts: Laws and Adages | :hearts: Book
+Blog Post | Video | Graphs and Models | Laws and Adages | Book
+:---: | :---: | :---: | ---- | :---:
+:hearts: | :hearts: | :hearts: | :hearts: | :hearts:
 
 ## In English
 
