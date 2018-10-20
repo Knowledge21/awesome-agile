@@ -20,19 +20,19 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 
 Business | Cultural | Organizational | Technical
 :---: | :---: | :---: | :----:
-:hearts: | :hearts: | :hearts: | :hearts:
+:shipit: | :honeybee: | :office: | :wrench:
 
 ### Type of Content
 
 Blog Post | Video | Graphs and Models | Laws and Adages | Book
 :---: | :---: | :---: | :---: | :---:
-:hearts: | :hearts: | :hearts: | :hearts: | :hearts:
+:pencil: | :movie_camera: | :chart_with_upwards_trend: | :guardsman: | :book:
 
 ## In English
 
-Type | Title | Domain | Inside of Topic
---- | ---  | --- | ---
-Blog Post | [name](link) | Technical
+Type | Title | Domain | Is a must? | Inside of Topic
+--- | ---  | --- | --- | ---
+Blog Post | [name](link) | :exclamation: | Technical
 
 ## In Portuguese
 
