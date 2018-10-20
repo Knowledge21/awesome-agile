@@ -32,7 +32,7 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 
 Type | Title | Domain | Is a must? | Inside of Topic
 --- | ---  | --- | --- | ---
-Blog Post | [name](link) | :exclamation: | Technical
+Blog Post | [name](link) | :shipit: | :exclamation: | something...
 
 ## In Portuguese
 
