@@ -34,3 +34,5 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 ## In English
 
 ## In Portuguese
+
+*A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain*
