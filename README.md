@@ -13,3 +13,24 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 
 - [English](#in-english)
 - [Portuguese](#in-portuguese)
+
+## Labels
+
+### Domains
+
+- Business
+- Cultural
+- Organizational
+- Tecnical
+
+### Type of Content
+
+- Blog Post
+- Video
+- Graphs and Models
+- Laws and Adages
+- Book
+
+## In English
+
+## In Portuguese
