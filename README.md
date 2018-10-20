@@ -20,7 +20,7 @@ A curated list of agile contents we like based on the [4 agility domains](https:
 
 Business | Cultural | Organizational | Technical
 :---: | :---: | :---: | :----:
-:shipit: | :honeybee: | :office: | :wrench:
+:shipit: | :heartpulse: | :office: | :wrench:
 
 ### Type of Content
 
