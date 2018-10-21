@@ -52,60 +52,60 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :movie_camera: | []() | :: | :bangbang: |
 :movie_camera: | []() | :: | :bangbang: |
 :movie_camera: | []() | :: | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:book: | []() | | :bangbang: |
-:chart_with_upwards_trend: | []() | | :bangbang: |
-:chart_with_upwards_trend: | []() | | :bangbang: |
-:chart_with_upwards_trend: | []() | | :bangbang: |
-:chart_with_upwards_trend: | []() | | :bangbang: |
-:chart_with_upwards_trend: | []() | | :bangbang: |
-:guardsman: | []() | | :bangbang: |
-:guardsman: | []() | | :bangbang: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
-:book: | []() | | :exclamation: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:book: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:guardsman: | []() | :: | :bangbang: |
+:guardsman: | []() | :: | :bangbang: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
+:book: | []() | :: | :exclamation: |
 
 *A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain* 
