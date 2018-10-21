@@ -25,13 +25,13 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 
 ## In English
 
-Type | Title | Domains | Is a must? | Inside of Topic
+Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
 :pencil: | [name](link) | :shipit: | :exclamation: | something...
 
 ## In Portuguese
 
-Type | Title | Domains | Is a must? | Inside of Topic
+Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 --- | ---  | :---: | :---: | ---
 :pencil: | [Até onde vai a agilidade?](https://www.knowledge21.com.br/blog/ate-onde-vai-agilidade/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | 4 Domínios da Agilidade
 :pencil: | [Agilidade além do Scrum](www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: |
