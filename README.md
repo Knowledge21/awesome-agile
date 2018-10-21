@@ -26,13 +26,14 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 ## In English
 
 Type | Title | Domains | Is a must? | Inside of Topic
---- | ---  | --- | --- | ---
+--- | ---  | :---: | :---: | ---
 :pencil: | [name](link) | :shipit: | :exclamation: | something...
 
 ## In Portuguese
 
 Type | Title | Domains | Is a must? | Inside of Topic
---- | ---  | --- | --- | ---
-:pencil: | [Até onde vai a agilidade?](https://www.knowledge21.com.br/blog/ate-onde-vai-agilidade/) | :shipit: | :bangbang: | 4 Domínios da Agilidade
+--- | ---  | :---: | :---: | ---
+:pencil: | [Até onde vai a agilidade?](https://www.knowledge21.com.br/blog/ate-onde-vai-agilidade/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | 4 Domínios da Agilidade
+:pencil: | [Agilidade além do Scrum](www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: |
 
-*A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain*
+*A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain* 
