@@ -35,5 +35,15 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 --- | ---  | :---: | :---: | ---
 :pencil: | [Até onde vai a agilidade?](https://www.knowledge21.com.br/blog/ate-onde-vai-agilidade/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | 4 Domínios da Agilidade
 :pencil: | [Agilidade além do Scrum](www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: |
+:pencil: | [Product Backlog, planejamento contínuo e a analogia do horizonte](https://www.knowledge21.com.br/blog/product-backlog-planejamento-continuo-e-analogia-horizonte/) | :shipit: | :bangbang: | Produto 
+:pencil: | [Testes automatizados? Por onde eu começo?](www.knowledge21.com.br/blog/testes-automatizados-por-onde-eu-comeco/) | :wrench: | :bangbang: | Testes automatizados 
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
+:pencil: | []() | | :bangbang: |
 
 *A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain* 
