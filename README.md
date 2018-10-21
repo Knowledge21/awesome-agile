@@ -45,13 +45,13 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :pencil: | [Tanque de Decantação: um canvas como solução](http://www.knowledge21.com.br/blog/canvas-tanque-de-decantacao/) | :shipit: | :bangbang: | Produto
 :pencil: | [Métricas – Como medir a agilidade do seu time](http://www.knowledge21.com.br/blog/metricas-como-medir-a-agilidade-do-seu-time/) | :shipit: | :bangbang: | Métricas
 :pencil: | [Reuniões mais eficientes com Scrum](http://www.knowledge21.com.br/blog/reunioes-mais-eficientes-com-scrum/) | :school: | :bangbang: | True Agile
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
-:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | [Produtos Enxutos e o Pensamento Lean (Rodrigo de Toledo)](https://www.infoq.com/br/presentations/produtos-enxutos-pensamento-lean?utm_source=presentations_about_Lean-Startup&utm_medium=link&utm_campaign=Lean-Startup) | :shipit: | :bangbang: | 
+:movie_camera: | [Transformação Ágil ou Transformação Digital? (Rodrigo de Toledo e Rafael Sabbagh)](https://www.infoq.com/br/presentations/transformacao-agil-ou-transformacao-digital) | :shipit: :heartpulse: | :bangbang: |
+:movie_camera: | [É/NÃO É/FAZ/NÃO FAZ](https://youtu.be/lthR3mJeHYU) | :shipit: :school: | :bangbang: | Dinâmicas de Facilitação
+:movie_camera: | [Assessment baseado nos 4 Domínios da Agilidade](https://www.youtube.com/watch?v=59wOoFE1_XE&t=36s) | :heartpulse: | :bangbang: | 4 Domínios da Agilidade
+:movie_camera: | [Contratos Ágeis por Marcos Garrido da Knowledge21](https://www.youtube.com/watch?v=pHnUUN6gEFQ) | :shipit: | :bangbang: | Contratos
+:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Parar de começar e começar a terminar
+:movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Puxado vs empurrado
 :book: | []() | :: | :bangbang: |
 :book: | []() | :: | :bangbang: |
 :book: | []() | :: | :bangbang: |
