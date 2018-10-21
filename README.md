@@ -37,22 +37,21 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :pencil: | [Agilidade além do Scrum](www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: |
 :pencil: | [Product Backlog, planejamento contínuo e a analogia do horizonte](https://www.knowledge21.com.br/blog/product-backlog-planejamento-continuo-e-analogia-horizonte/) | :shipit: | :bangbang: | Produto 
 :pencil: | [Testes automatizados? Por onde eu começo?](www.knowledge21.com.br/blog/testes-automatizados-por-onde-eu-comeco/) | :wrench: | :bangbang: | Testes automatizados 
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:pencil: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
-:movie_camera: | []() | | :bangbang: |
+:pencil: | [Como equilibrar horizontes de curto, médio e longo prazo?]() | :shipit: | :bangbang: | Produto
+:pencil: | [“Quando fica pronto?” não é a pergunta mais importante]() | :shipit: | :bangbang: | Produto
+:pencil: | [O trabalho de FDP do Product Owner]() | :shipit: | :bangbang: | Produto
+:pencil: | [BDUF: A arte de fazer coisas que não deveriam ser feitas]() | :wrench: | :bangbang: | Produto
+:pencil: | [True Agile – O que a Knowledge21 Acredita]() | :heartpulse: | :bangbang: | True Agile
+:pencil: | [Tanque de Decantação: um canvas como solução]() | :shipit: | :bangbang: | Produto
+:pencil: | [Métricas – Como medir a agilidade do seu time]() | :shipit: | :bangbang: | Métricas
+:pencil: | [Reuniões mais eficientes com Scrum]() | :school: | :bangbang: | True Agile
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
+:movie_camera: | []() | :: | :bangbang: |
 :book: | []() | | :bangbang: |
 :book: | []() | | :bangbang: |
 :book: | []() | | :bangbang: |
