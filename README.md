@@ -61,11 +61,11 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo, Jeff Sutherland (3 indicações)](https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum.+A+Arte+de+Fazer+o+Dobro+do+Trabalho+na+Metade+do+Tempo&qid=1524073547&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) |
 :book: | [Scrum e XP direto das Trincheiras, Henrik Kniberg (3 indicações)](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | :heartpulse: :school: | :bangbang: |
 :book: | [Value Proposition Design, Alexander Osterwalder,‎ Yves Pigneur,‎ Gregory Bernarda e Alan Smith (2 indicações)](https://www.amazon.com.br/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=value+Proposition+Design&qid=1524139985&sr=1-1&ref=sr_1_1) | :: | :bangbang: |
-:chart_with_upwards_trend: | []() | :: | :bangbang: |
-:chart_with_upwards_trend: | []() | :: | :bangbang: |
-:chart_with_upwards_trend: | []() | :: | :bangbang: |
-:chart_with_upwards_trend: | []() | :: | :bangbang: |
-:chart_with_upwards_trend: | []() | :: | :bangbang: |
+:chart_with_upwards_trend: | [Matriz de Stacey](https://vimeo.com/25979052) | :heartpulse: | :bangbang: | Simples, Complicado, Complexo e Anárquico
+:chart_with_upwards_trend: | [The Golden Circle (O Círculo Dourado)](https://www.youtube.com/watch?v=POfQlg0V0Cc) | :heartpulse: | :bangbang: | Por que é a pergunta mais importante
+:chart_with_upwards_trend: | [Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8) | :heartpulse: | :bangbang: | [Simples, Complexo, Complicado, Caótico e Desordem](https://en.wikipedia.org/wiki/Cynefin_framework)
+:chart_with_upwards_trend: | [Cone of Uncertainty (Cone da Incerteza)](https://en.wikipedia.org/wiki/Cone_of_Uncertainty) | :school: | :bangbang: | Incerteza em projetos de trabalho de conhecimento
+:chart_with_upwards_trend: | [Don Reinertsen - Vazão com pessoas 100% alocadas](https://hbr.org/2012/05/six-myths-of-product-development) | :heartpulse: | :bangbang: |  Garanta 0 vazão alocando 100% das pessoas. Tarefeiros não funcionam
 :guardsman: | [Conway's Law](https://en.m.wikipedia.org/wiki/Conway%27s_law) | :school: | :bangbang: |
 :guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :bangbang: | O aumento da vazão do processo depende da redução da quantidade de WIP
 :book: | []() | :: | :exclamation: |
