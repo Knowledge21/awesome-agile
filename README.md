@@ -27,7 +27,7 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 
 Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
-:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Stop starting and start to finishing
+:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Stop Starting, Start Finishing
 :movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Pulled vs. pushed
 :book: | [Essential Kanban Condensed, David J Anderson e Andy Carmichael (3 indications)](http://leankanban.com/guide/) | :heartpulse: :school: | :bangbang: | :heartpulse: :school: | :bangbang: | The fully compiled "Kanban Guide"
 :book: | [Management 3.0 - Leading Agile Developers, Developing Agile Leaders, Jurgen Appelo (3 indications)](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=management+3.0&qid=1524073804&sr=1-1&ref=sr_1_1) | :heartpulse: :school: | :bangbang: |
