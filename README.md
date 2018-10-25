@@ -66,8 +66,8 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
-:guardsman: | []() | :: | :bangbang: |
-:guardsman: | []() | :: | :bangbang: |
+:guardsman: | [Conway's Law](https://en.m.wikipedia.org/wiki/Conway%27s_law) | :school: | :bangbang: |
+:guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :bangbang: | O aumento da vazão do processo depende da redução da quantidade de WIP
 :book: | []() | :: | :exclamation: |
 :book: | []() | :: | :exclamation: |
 :book: | []() | :: | :exclamation: |
