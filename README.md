@@ -27,7 +27,12 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book
 
 Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
-:pencil: | [name](link) | :shipit: | :exclamation: | something...
+:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Parar de começar e começar a terminar
+:movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Puxado vs empurrado
+:book: | [Essential Kanban Condensed, David J Anderson e Andy Carmichael (3 indicações)](http://leankanban.com/guide/) | :heartpulse: :school: | :bangbang: | :heartpulse: :school: | :bangbang: | O "Kanban Guide", totalmente compilado
+:book: | [Management 3.0 - Leading Agile Developers, Developing Agile Leaders, Jurgen Appelo (3 indicações)](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=management+3.0&qid=1524073804&sr=1-1&ref=sr_1_1) | :heartpulse: :school: | :bangbang: |
+:book: | [A quinta disciplina, Peter Senge](https://www.amazon.com.br/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=A+quinta+disciplina&qid=1524140639&sr=1-2-catcorr&ref=sr_1_2) | :heartpulse: :school: | :bangbang: | Shared Learning, Systems Thinking
+:book: | [The Clean Coder, Robert C. Martin (2 indicações)](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+coder&qid=1524074092&sr=1-1-spell&ref=sr_1_1) | :heartpulse: :wrench: | :bangbang: |
 
 ## In Portuguese
 
@@ -50,18 +55,12 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :movie_camera: | [É/NÃO É/FAZ/NÃO FAZ](https://youtu.be/lthR3mJeHYU) | :shipit: :school: | :bangbang: | Dinâmicas de Facilitação
 :movie_camera: | [Assessment baseado nos 4 Domínios da Agilidade](https://www.youtube.com/watch?v=59wOoFE1_XE&t=36s) | :heartpulse: | :bangbang: | 4 Domínios da Agilidade
 :movie_camera: | [Contratos Ágeis por Marcos Garrido da Knowledge21](https://www.youtube.com/watch?v=pHnUUN6gEFQ) | :shipit: | :bangbang: | Contratos
-:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Parar de começar e começar a terminar
-:movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Puxado vs empurrado
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
-:book: | []() | :: | :bangbang: |
+:book: | [Scrum: Gestão ágil para projetos de sucesso, Rafael Sabbagh (5 indicações)](https://www.amazon.com.br/Scrum-Gest%C3%A3o-%C3%A1gil-projetos-sucesso-ebook/dp/B00VAB1GSS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum:+Gest%C3%A3o+%C3%A1gil+para+projetos+de+sucesso&qid=1524072804&sr=8-1-fkmrnull&ref=sr_1_fkmrnull_1) | :school: :heartpulse: | :bangbang: | Discurso K21, analogias e consultas em geral sobre Scrum
+:book: | [Motivação 3.0, Daniel Pink (2 indicações)](https://www.amazon.com.br/Motiva%C3%A7%C3%A3o-3-0-Daniel-Pink/dp/8535235582?keywords=motiva%C3%A7%C3%A3o+3.0&qid=1524072846&sr=1-1-catcorr&ref=sr_1_1) | :heartpulse: | :bangbang: |
+:book: | [Lean startups, Erick Ries (5 indicações)](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries/dp/8581780040?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GBBLPSPF2JTG&keywords=a+startup+enxuta&qid=1524073349&sprefix=a+start,stripbooks,289&sr=1-1&ref=sr_1_1) | :shipit: | :bangbang: |
+:book: | [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo, Jeff Sutherland (3 indicações)](https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum.+A+Arte+de+Fazer+o+Dobro+do+Trabalho+na+Metade+do+Tempo&qid=1524073547&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) |
+:book: | [Scrum e XP direto das Trincheiras, Henrik Kniberg (3 indicações)](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | :heartpulse: :school: | :bangbang: |
+:book: | [Value Proposition Design, Alexander Osterwalder,‎ Yves Pigneur,‎ Gregory Bernarda e Alan Smith (2 indicações)](https://www.amazon.com.br/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=value+Proposition+Design&qid=1524139985&sr=1-1&ref=sr_1_1) | :: | :bangbang: |
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
 :chart_with_upwards_trend: | []() | :: | :bangbang: |
