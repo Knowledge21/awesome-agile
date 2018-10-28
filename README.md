@@ -72,6 +72,15 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :chart_with_upwards_trend: | [Don Reinertsen - Vazão com pessoas 100% alocadas](https://hbr.org/2012/05/six-myths-of-product-development) | :heartpulse: | :exclamation: |  Complexidade
 :guardsman: | [Conway's Law](https://en.m.wikipedia.org/wiki/Conway%27s_law) | :school: | :exclamation: | Código
 :guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :exclamation: | Kanban
-
+:book: | [Kanban e Scrum - obtendo o melhor de ambos, Henrik Kniberg](https://www.infoq.com/br/minibooks/kanban-scrum-minibook) | | | |
+:book: | [eXtreme Programming, Daniel Wildt](https://www.casadocodigo.com.br/products/livro-xp-extreme-programming) | | | |
+:book: | [Great boss Dead boss, Rey Immelman](https://www.amazon.com.br/Great-Boss-Dead-English-ebook/dp/B00HGE0D5A?keywords=Great+boss+Dead+boss&qid=1524073656&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
+:book: | [Direto ao ponto, Paulo Caroli](https://www.amazon.com.br/Direto-Ponto-Criando-produtos-enxuta-ebook/dp/B019NG697E?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=direto+ao+ponto&qid=1524073770&sr=1-1&ref=sr_1_1) | :shipit: | | |
+:book: | [Academia Disney, Doug Lipp](https://www.amazon.com.br/Academia-Disney-DOUG-LIPP-ebook/dp/B076BYHS8P?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=academia+disney&qid=1524073838&sr=1-1-catcorr&ref=sr_1_1) | :heartpulse: | | |
+:book: | [Satisfação garantida, Tony Hsieh](https://www.amazon.com.br/Satisfa%C3%A7%C3%A3o-Garantida-Tony-Hsieh/dp/8578601483?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=323X98K3T7PF2&keywords=satisfa%C3%A7%C3%A3o+garantida&qid=1524073894&sprefix=satisfa%C3%A7%C3%A3o+%2Cdigital-text%2C327&sr=1-"&"2-fkmrnull&ref=sr_1_fkmrnull_2) | :heartpulse: :school: | | |
+:book: | [Como o Google funciona, Eric Schmidt,‎ Jonathan Rosenberg](https://www.amazon.com.br/Como-Google-funciona-Eric-Schmidt-ebook/dp/B00RKX94D4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=357KG6Q3R8L4W&keywords=como+o+google+funciona&qid=1524073954&sprefix=como+o+google+%2Cstripbooks%2C293&sr=1-1-fkmrnull&ref=sr_1"&"_fkmrnull_1) | :school: | | |
+:book: | Colaboração 3.0 | | | |
+:book: | [The phoenix project, Gene Kim,‎ Kevin Behr,‎ George Spafford](https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=The+phoenix+project&qid=1524139476&sr=8-1&ref=sr_1_1) | | | |
+:book: | [Test Driven Development, Kent Beck](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tdd+kent+beck&qid=1524141617&sr=8-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
 
 *A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain* 
