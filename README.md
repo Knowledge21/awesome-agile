@@ -34,6 +34,7 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :book: | [Fifth discipline, Peter Senge](https://www.amazon.com.br/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=A+quinta+disciplina&qid=1524140639&sr=1-2-catcorr&ref=sr_1_2) | :heartpulse: :school: | :bangbang: | Shared Learning, Systems Thinking
 :book: | [The Clean Coder, Robert C. Martin (2 indications)](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+coder&qid=1524074092&sr=1-1-spell&ref=sr_1_1) | :heartpulse: :wrench: | :bangbang: |
 :pencil: | [GIT Good: A Practical Introduction to GIT and GitHub (In GIT we trust!) (2 indications)](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48) | :wrench: | :bangbang: |
+:pencil: | [How far does agility go? 4 Agility Domains by Knowledge21](https://knowledge21.com/usa/blog/4-agility-domains/) | shipit: :heartpulse: :school: :wrench: | :bangbang: | Agility Definition
 
 ## In Portuguese
 
