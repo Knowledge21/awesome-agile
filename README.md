@@ -20,7 +20,7 @@ Business | Cultural | Organizational | Technical
 ### Type of Content
 
 Blog Post | Video | Graphs and Models | Laws and Adages | Book | Website
-:---: | :---: | :---: | :---: | :---:
+:---: | :---: | :---: | :---: | :---: | :---:
 :pencil: | :movie_camera: | :chart_with_upwards_trend: | :guardsman: | :book: | :link:
 
 ## In English
