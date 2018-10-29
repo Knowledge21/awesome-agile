@@ -27,15 +27,22 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book | Website
 
 Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
-:link: | [Agile Manifesto](http://agilemanifesto.org) | :heartpulse: | :bangbang: | Agility
-:pencil: | [How far does agility go? 4 Agility Domains by Knowledge21](https://knowledge21.com/usa/blog/4-agility-domains/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | Agility
-:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :exclamation: | Kanban
-:movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :exclamation: | Kanban
-:book: | [Essential Kanban Condensed, David J Anderson e Andy Carmichael (3 indications)](http://leankanban.com/guide/) | :heartpulse: :school: | :exclamation: | Kanban
-:book: | [Management 3.0 - Leading Agile Developers, Developing Agile Leaders, Jurgen Appelo (3 indications)](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=management+3.0&qid=1524073804&sr=1-1&ref=sr_1_1) | :heartpulse: :school: | :exclamation: | Leadership
-:book: | [Fifth discipline, Peter Senge](https://www.amazon.com.br/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=A+quinta+disciplina&qid=1524140639&sr=1-2-catcorr&ref=sr_1_2) | :heartpulse: :school: | :bangbang: | Systems Thinking
-:book: | [The Clean Coder, Robert C. Martin (2 indications)](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+coder&qid=1524074092&sr=1-1-spell&ref=sr_1_1) | :heartpulse: :wrench: | :bangbang: | Coding
-:pencil: | [GIT Good: A Practical Introduction to GIT and GitHub (In GIT we trust!) (2 indications)](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48) | :wrench: | :exclamation: | Coding
+
+:movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Stop Starting, Start Finishing
+:movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Pulled vs. pushed
+:book: | [Essential Kanban Condensed, David J Anderson e Andy Carmichael (3 indications)](http://leankanban.com/guide/) | :heartpulse: :school: | :bangbang: | :heartpulse: :school: | :bangbang: | The fully compiled "Kanban Guide"
+:book: | [Management 3.0 - Leading Agile Developers, Developing Agile Leaders, Jurgen Appelo (3 indications)](https://www.amazon.com.br/Management-3-0-Developers-Developing-Addison-Wesley-ebook/dp/B004ISL6JY?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=management+3.0&qid=1524073804&sr=1-1&ref=sr_1_1) | :heartpulse: :school: | :exclamation: | Agile for managers and leaders
+:book: | [Fifth discipline, Peter Senge](https://www.amazon.com.br/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=A+quinta+disciplina&qid=1524140639&sr=1-2-catcorr&ref=sr_1_2) | :heartpulse: :school: | :bangbang: | Shared Learning, Systems Thinking
+:book: | [The Clean Coder, Robert C. Martin (2 indications)](https://www.amazon.com.br/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+coder&qid=1524074092&sr=1-1-spell&ref=sr_1_1) | :heartpulse: :wrench: | :bangbang: |
+:pencil: | [GIT Good: A Practical Introduction to GIT and GitHub (In GIT we trust!) (2 indications)](https://codeburst.io/git-good-a-practical-introduction-to-git-and-github-in-git-we-trust-f18fa263ec48) | :wrench: | :bangbang: |
+:pencil: | [How far does agility go? 4 Agility Domains by Knowledge21](https://knowledge21.com/usa/blog/4-agility-domains/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | Agility definition
+:book: | [Value Proposition Design, Alexander Osterwalder,‎ Yves Pigneur,‎ Gregory Bernarda e Alan Smith (2 indicações)](https://www.amazon.com.br/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=value+Proposition+Design&qid=1524139985&sr=1-1&ref=sr_1_1) | :: | :bangbang: |
+:chart_with_upwards_trend: | [Cone of Uncertainty (Cone da Incerteza)](https://en.wikipedia.org/wiki/Cone_of_Uncertainty) | :school: | :bangbang: | Incerteza em projetos de trabalho de conhecimento
+:chart_with_upwards_trend: | [Don Reinertsen - Six Myths of Product Development](https://hbr.org/2012/05/six-myths-of-product-development) | :heartpulse: | :bangbang: |  Garanta 0 vazão alocando 100% das pessoas. Tarefeiros não funcionam
+:guardsman: | [Conway's Law](https://en.m.wikipedia.org/wiki/Conway%27s_law) | :school: | :bangbang: |
+:guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :bangbang: | O aumento da vazão do processo depende da redução da quantidade de WIP
+:chart_with_upwards_trend: | [Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8) | :heartpulse: | :bangbang: | [Simple, Complex, Complicated, Chaotic and Disorder](https://en.wikipedia.org/wiki/Cynefin_framework)
+:book: | [Great boss Dead boss, Rey Immelman](https://www.amazon.com.br/Great-Boss-Dead-English-ebook/dp/B00HGE0D5A?keywords=Great+boss+Dead+boss&qid=1524073656&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
 
 ## In Portuguese
 
@@ -64,17 +71,10 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Lean startups, Erick Ries (5 indicações)](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries/dp/8581780040?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GBBLPSPF2JTG&keywords=a+startup+enxuta&qid=1524073349&sprefix=a+start,stripbooks,289&sr=1-1&ref=sr_1_1) | :shipit: | :exclamation: | Produto
 :book: | [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo, Jeff Sutherland (3 indicações)](https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum.+A+Arte+de+Fazer+o+Dobro+do+Trabalho+na+Metade+do+Tempo&qid=1524073547&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | :heartpulse: | :exclamation: | Scrum 
 :book: | [Scrum e XP direto das Trincheiras, Henrik Kniberg (3 indicações)](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | :heartpulse: :school: | :exclamation: | Scrum
-:book: | [Value Proposition Design, Alexander Osterwalder,‎ Yves Pigneur,‎ Gregory Bernarda e Alan Smith (2 indicações)](https://www.amazon.com.br/Value-Proposition-Design-Customers-Strategyzer-ebook/dp/B06X429CJH?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=value+Proposition+Design&qid=1524139985&sr=1-1&ref=sr_1_1) | :shipit: | :exclamation: | Produto
 :chart_with_upwards_trend: | [Matriz de Stacey](https://vimeo.com/25979052) | :heartpulse: | :exclamation: | Complexidade
 :chart_with_upwards_trend: | [The Golden Circle (O Círculo Dourado)](https://www.youtube.com/watch?v=POfQlg0V0Cc) | :heartpulse: | :exclamation: | Produto
-:chart_with_upwards_trend: | [Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8) | :heartpulse: | :exclamation: | Complexidade
-:chart_with_upwards_trend: | [Cone of Uncertainty (Cone da Incerteza)](https://en.wikipedia.org/wiki/Cone_of_Uncertainty) | :school: | :exclamation: | Complexidade
-:chart_with_upwards_trend: | [Don Reinertsen - Vazão com pessoas 100% alocadas](https://hbr.org/2012/05/six-myths-of-product-development) | :heartpulse: | :exclamation: |  Complexidade
-:guardsman: | [Conway's Law](https://en.m.wikipedia.org/wiki/Conway%27s_law) | :school: | :exclamation: | Código
-:guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :exclamation: | Kanban
 :book: | [Kanban e Scrum - obtendo o melhor de ambos, Henrik Kniberg](https://www.infoq.com/br/minibooks/kanban-scrum-minibook) | | | |
 :book: | [eXtreme Programming, Daniel Wildt](https://www.casadocodigo.com.br/products/livro-xp-extreme-programming) | | | |
-:book: | [Great boss Dead boss, Rey Immelman](https://www.amazon.com.br/Great-Boss-Dead-English-ebook/dp/B00HGE0D5A?keywords=Great+boss+Dead+boss&qid=1524073656&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
 :book: | [Direto ao ponto, Paulo Caroli](https://www.amazon.com.br/Direto-Ponto-Criando-produtos-enxuta-ebook/dp/B019NG697E?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=direto+ao+ponto&qid=1524073770&sr=1-1&ref=sr_1_1) | :shipit: | | |
 :book: | [Academia Disney, Doug Lipp](https://www.amazon.com.br/Academia-Disney-DOUG-LIPP-ebook/dp/B076BYHS8P?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=academia+disney&qid=1524073838&sr=1-1-catcorr&ref=sr_1_1) | :heartpulse: | | |
 :book: | [Satisfação garantida, Tony Hsieh](https://www.amazon.com.br/Satisfa%C3%A7%C3%A3o-Garantida-Tony-Hsieh/dp/8578601483?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=323X98K3T7PF2&keywords=satisfa%C3%A7%C3%A3o+garantida&qid=1524073894&sprefix=satisfa%C3%A7%C3%A3o+%2Cdigital-text%2C327&sr=1-"&"2-fkmrnull&ref=sr_1_fkmrnull_2) | :heartpulse: :school: | | |
