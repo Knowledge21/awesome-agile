@@ -27,7 +27,6 @@ Blog Post | Video | Graphs and Models | Laws and Adages | Book | Website
 
 Type | Title | Domains | Is a Must? | Inside of Topic
 --- | ---  | :---: | :---: | ---
-
 :movie_camera: | [AgileByExample 2016: Henrik Kniberg - Keynote - Focus (or Stop Starting, Start Finishing)](https://youtu.be/n7wH2XdOWpM) | :heartpulse: | :bangbang: | Stop Starting, Start Finishing
 :movie_camera: | [The resource utilization trap](https://youtu.be/CostXs2p6r0) | :heartpulse: | :bangbang: | Pulled vs. pushed
 :book: | [Essential Kanban Condensed, David J Anderson e Andy Carmichael (3 indications)](http://leankanban.com/guide/) | :heartpulse: :school: | :bangbang: | :heartpulse: :school: | :bangbang: | The fully compiled "Kanban Guide"
@@ -43,6 +42,11 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :guardsman: | [Little's Law](https://en.m.wikipedia.org/wiki/Little%27s_law#/languages) | :school: | :bangbang: | O aumento da vazão do processo depende da redução da quantidade de WIP
 :chart_with_upwards_trend: | [Cynefin Framework](https://www.youtube.com/watch?v=N7oz366X0-8) | :heartpulse: | :bangbang: | [Simple, Complex, Complicated, Chaotic and Disorder](https://en.wikipedia.org/wiki/Cynefin_framework)
 :book: | [Great boss Dead boss, Rey Immelman](https://www.amazon.com.br/Great-Boss-Dead-English-ebook/dp/B00HGE0D5A?keywords=Great+boss+Dead+boss&qid=1524073656&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
+:book: | [4 steps to epiphany, Steve Blank](https://www.amazon.com.br/Four-Steps-Epiphany-English-ebook/dp/B00FLZKNUQ?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=4+steps+to+epiphany&qid=1524140404&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
+:book: | [Scrum Field Guide: Advice for your first year, Mitch Lacey](https://www.amazon.com.br/Scrum-Field-Guide-Practical-Advice/dp/0321554159?keywords=Scrum+Field+Guide%3A+Advice+for+your+first+year&qid=1524140358&sr=1-1-catcorr&ref=sr_1_1)
+:book: | [User story mapping, Jeff Patton e Peter Economy](https://www.amazon.com.br/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=User+story+mapping+%28Jeff+Patton%2C+Peter+Economy%29&qid=1524140310&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
+:book: | [Think like a freak, Steven Levitt e Stephen J. Dubner)](https://www.amazon.com.br/Think-Like-Freak-Authors-Freakonomics-ebook/dp/B00BATINVS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Think+like+a+freak+%28Steven+Levitt%2C+Stephen+J.+Dubner%29&qid=1524140264&sr=1-1-catcorr&ref=sr_1_1)
+:book: | [The phoenix project, Gene Kim,‎ Kevin Behr,‎ George Spafford](https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=The+phoenix+project&qid=1524139476&sr=8-1&ref=sr_1_1) | | | |
 
 ## In Portuguese
 
@@ -80,7 +84,6 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Satisfação garantida, Tony Hsieh](https://www.amazon.com.br/Satisfa%C3%A7%C3%A3o-Garantida-Tony-Hsieh/dp/8578601483?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=323X98K3T7PF2&keywords=satisfa%C3%A7%C3%A3o+garantida&qid=1524073894&sprefix=satisfa%C3%A7%C3%A3o+%2Cdigital-text%2C327&sr=1-"&"2-fkmrnull&ref=sr_1_fkmrnull_2) | :heartpulse: :school: | | |
 :book: | [Como o Google funciona, Eric Schmidt,‎ Jonathan Rosenberg](https://www.amazon.com.br/Como-Google-funciona-Eric-Schmidt-ebook/dp/B00RKX94D4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=357KG6Q3R8L4W&keywords=como+o+google+funciona&qid=1524073954&sprefix=como+o+google+%2Cstripbooks%2C293&sr=1-1-fkmrnull&ref=sr_1"&"_fkmrnull_1) | :school: | | |
 :book: | Colaboração 3.0 | | | |
-:book: | [The phoenix project, Gene Kim,‎ Kevin Behr,‎ George Spafford](https://www.amazon.com.br/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=The+phoenix+project&qid=1524139476&sr=8-1&ref=sr_1_1) | | | |
 :book: | [Test Driven Development, Kent Beck](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tdd+kent+beck&qid=1524141617&sr=8-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
 :book: | [Kanban, David J. Anderson](https://www.amazon.com.br/Kanban-English-David-J-Anderson-ebook/dp/B0057H2M70?keywords=Lean+Kanban&qid=1524139637&sr=1-3&ref=sr_1_3) 
 :book: | [Strategize: Product Strategy and Product Roadmap Practices for the Digital Age. Roman Pilcher](https://www.amazon.com.br/Strategize-Product-Strategy-Roadmap-Practices-ebook/dp/B01F749SF6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Strategize&qid=1524139849&sr=1-1&ref=sr_1_1)
@@ -88,9 +91,5 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Implementando o Desenvolvimento Lean de Software, Mary Poppendieck e Tom Poppendieck](https://www.amazon.com.br/Implementando-Desenvolvimento-Lean-Software-Conceito-ebook/dp/B017AD8Z7E?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Implementando+o+Desenvolvimento+Lean+de+Software&qid=1524140070&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [Os 5 desafios das equipes, Patrick Lencioni](https://www.amazon.com.br/Os-5-desafios-das-equipes-ebook/dp/B017708Z5M?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Os+5+desafios+das+equipes&qid=1524140132&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [O poder do hábito, Charles Duhigg](https://www.amazon.com.br/poder-h%C3%A1bito-fazemos-vida-neg%C3%B3cios-ebook/dp/B00A3D10JE?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=O+poder+do+h%C3%A1bito+%28Charles+Duhigg%29&qid=1524140202&sr=1-1-catcorr&ref=sr_1_1)
-:book: | [Think like a freak, Steven Levitt e Stephen J. Dubner)](https://www.amazon.com.br/Think-Like-Freak-Authors-Freakonomics-ebook/dp/B00BATINVS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Think+like+a+freak+%28Steven+Levitt%2C+Stephen+J.+Dubner%29&qid=1524140264&sr=1-1-catcorr&ref=sr_1_1)
-:book: | [User story mapping, Jeff Patton e Peter Economy](https://www.amazon.com.br/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=User+story+mapping+%28Jeff+Patton%2C+Peter+Economy%29&qid=1524140310&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
-:book: | [Scrum Field Guide: Advice for your first year, Mitch Lacey](https://www.amazon.com.br/Scrum-Field-Guide-Practical-Advice/dp/0321554159?keywords=Scrum+Field+Guide%3A+Advice+for+your+first+year&qid=1524140358&sr=1-1-catcorr&ref=sr_1_1)
-:book: | [4 steps to epiphany, Steve Blank](https://www.amazon.com.br/Four-Steps-Epiphany-English-ebook/dp/B00FLZKNUQ?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=4+steps+to+epiphany&qid=1524140404&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
 
 *A special thanks to Tadeu Marinho and the K21 content team for the first 12 items for each domain*
