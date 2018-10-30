@@ -54,17 +54,17 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 --- | ---  | :---: | :---: | ---
 :link: | [Manifesto Ágil](http://agilemanifesto.org/iso/ptbr/manifesto.html) | :heartpulse: | :bangbang: | Agilidade
 :pencil: | [Até onde vai a agilidade?](https://www.knowledge21.com.br/blog/ate-onde-vai-agilidade/) | :shipit: :heartpulse: :school: :wrench: | :bangbang: | Agilidade
-:pencil: | [Agilidade além do Scrum](www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :exclamation: | Agilidade
-:pencil: | [Product Backlog, planejamento contínuo e a analogia do horizonte](https://www.knowledge21.com.br/blog/product-backlog-planejamento-continuo-e-analogia-horizonte/) | :shipit: | :exclamation: | Produto 
-:pencil: | [Testes automatizados? Por onde eu começo?](www.knowledge21.com.br/blog/testes-automatizados-por-onde-eu-comeco/) | :wrench: | :exclamation: | Código
+:pencil: | [Agilidade além do Scrum](https://www.knowledge21.com.br/blog/agilidade-alem-do-scrum/) | :shipit: :heartpulse: :school: :wrench: | :exclamation: | Agilidade
+:pencil: | [Product Backlog, planejamento contínuo e a analogia do horizonte](https://www.knowledge21.com.br/blog/product-backlog-planejamento-continuo-e-analogia-horizonte/) | :shipit: | :exclamation: | Produto
+:pencil: | [Testes automatizados? Por onde eu começo?](https://www.knowledge21.com.br/blog/testes-automatizados-por-onde-eu-comeco/) | :wrench: | :exclamation: | Código
 :pencil: | [Como equilibrar horizontes de curto, médio e longo prazo?](https://www.knowledge21.com.br/blog/horizontes/) | :shipit: | :exclamation: | Produto
-:pencil: | [“Quando fica pronto?” não é a pergunta mais importante](www.knowledge21.com.br/blog/quando-fica-pronto/) | :shipit: | :exclamation: | Produto
+:pencil: | [“Quando fica pronto?” não é a pergunta mais importante](https://www.knowledge21.com.br/blog/quando-fica-pronto/) | :shipit: | :exclamation: | Produto
 :pencil: | [O trabalho de FDP do Product Owner](https://www.knowledge21.com.br/blog/fdp-do-product-owner/) | :shipit: | :exclamation: | Produto
-:pencil: | [BDUF: A arte de fazer coisas que não deveriam ser feitas](www.knowledge21.com.br/blog/bduf/) | :wrench: | :exclamation: | Produto
+:pencil: | [BDUF: A arte de fazer coisas que não deveriam ser feitas](https://www.knowledge21.com.br/blog/bduf/) | :wrench: | :exclamation: | Produto
 :pencil: | [True Agile – O que a Knowledge21 Acredita](https://www.knowledge21.com.br/blog/true-agile-o-que-a-knowledge21-acredita/) | :heartpulse: | :exclamation: | Agilidade
-:pencil: | [Tanque de Decantação: um canvas como solução](http://www.knowledge21.com.br/blog/canvas-tanque-de-decantacao/) | :shipit: | :exclamation: | Produto
-:pencil: | [Métricas – Como medir a agilidade do seu time](http://www.knowledge21.com.br/blog/metricas-como-medir-a-agilidade-do-seu-time/) | :shipit: | :exclamation: | Métricas
-:pencil: | [Reuniões mais eficientes com Scrum](http://www.knowledge21.com.br/blog/reunioes-mais-eficientes-com-scrum/) | :school: | :exclamation: | Agilidade
+:pencil: | [Tanque de Decantação: um canvas como solução](https://www.knowledge21.com.br/blog/canvas-tanque-de-decantacao/) | :shipit: | :exclamation: | Produto
+:pencil: | [Métricas – Como medir a agilidade do seu time](https://www.knowledge21.com.br/blog/metricas-como-medir-a-agilidade-do-seu-time/) | :shipit: | :exclamation: | Métricas
+:pencil: | [Reuniões mais eficientes com Scrum](https://www.knowledge21.com.br/blog/reunioes-mais-eficientes-com-scrum/) | :school: | :exclamation: | Agilidade
 :movie_camera: | [Produtos Enxutos e o Pensamento Lean (Rodrigo de Toledo)](https://www.infoq.com/br/presentations/produtos-enxutos-pensamento-lean?utm_source=presentations_about_Lean-Startup&utm_medium=link&utm_campaign=Lean-Startup) | :shipit: | :exclamation: | Produto
 :movie_camera: | [Transformação Ágil ou Transformação Digital? (Rodrigo de Toledo e Rafael Sabbagh)](https://www.infoq.com/br/presentations/transformacao-agil-ou-transformacao-digital) | :shipit: :heartpulse: | :exclamation: | Agilidade
 :movie_camera: | [É/NÃO É/FAZ/NÃO FAZ](https://youtu.be/lthR3mJeHYU) | :shipit: :school: | :exclamation: | Facilitação
@@ -73,7 +73,7 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Scrum: Gestão ágil para projetos de sucesso, Rafael Sabbagh (5 indicações)](https://www.amazon.com.br/Scrum-Gest%C3%A3o-%C3%A1gil-projetos-sucesso-ebook/dp/B00VAB1GSS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum:+Gest%C3%A3o+%C3%A1gil+para+projetos+de+sucesso&qid=1524072804&sr=8-1-fkmrnull&ref=sr_1_fkmrnull_1) | :school: :heartpulse: | :bangbang: | Scrum
 :book: | [Motivação 3.0, Daniel Pink (2 indicações)](https://www.amazon.com.br/Motiva%C3%A7%C3%A3o-3-0-Daniel-Pink/dp/8535235582?keywords=motiva%C3%A7%C3%A3o+3.0&qid=1524072846&sr=1-1-catcorr&ref=sr_1_1) | :heartpulse: | :exclamation: |
 :book: | [Lean startups, Erick Ries (5 indicações)](https://www.amazon.com.br/Startup-Enxuta-Eric-Ries/dp/8581780040?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GBBLPSPF2JTG&keywords=a+startup+enxuta&qid=1524073349&sprefix=a+start,stripbooks,289&sr=1-1&ref=sr_1_1) | :shipit: | :exclamation: | Produto
-:book: | [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo, Jeff Sutherland (3 indicações)](https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum.+A+Arte+de+Fazer+o+Dobro+do+Trabalho+na+Metade+do+Tempo&qid=1524073547&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | :heartpulse: | :exclamation: | Scrum 
+:book: | [Scrum. A Arte de Fazer o Dobro do Trabalho na Metade do Tempo, Jeff Sutherland (3 indicações)](https://www.amazon.com.br/Scrum-Fazer-Dobro-Trabalho-Metade/dp/8544104517?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Scrum.+A+Arte+de+Fazer+o+Dobro+do+Trabalho+na+Metade+do+Tempo&qid=1524073547&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1) | :heartpulse: | :exclamation: | Scrum
 :book: | [Scrum e XP direto das Trincheiras, Henrik Kniberg (3 indicações)](https://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) | :heartpulse: :school: | :exclamation: | Scrum
 :chart_with_upwards_trend: | [Matriz de Stacey](https://vimeo.com/25979052) | :heartpulse: | :exclamation: | Complexidade
 :chart_with_upwards_trend: | [The Golden Circle (O Círculo Dourado)](https://www.youtube.com/watch?v=POfQlg0V0Cc) | :heartpulse: | :exclamation: | Produto
@@ -85,7 +85,7 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Como o Google funciona, Eric Schmidt,‎ Jonathan Rosenberg](https://www.amazon.com.br/Como-Google-funciona-Eric-Schmidt-ebook/dp/B00RKX94D4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=357KG6Q3R8L4W&keywords=como+o+google+funciona&qid=1524073954&sprefix=como+o+google+%2Cstripbooks%2C293&sr=1-1-fkmrnull&ref=sr_1"&"_fkmrnull_1) | :school: | | |
 :book: | Colaboração 3.0 | | | |
 :book: | [Test Driven Development, Kent Beck](https://www.amazon.com.br/TDD-Desenvolvimento-Guiado-por-Testes/dp/857780724X?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=tdd+kent+beck&qid=1524141617&sr=8-1-fkmrnull&ref=sr_1_fkmrnull_1) | | | |
-:book: | [Kanban, David J. Anderson](https://www.amazon.com.br/Kanban-English-David-J-Anderson-ebook/dp/B0057H2M70?keywords=Lean+Kanban&qid=1524139637&sr=1-3&ref=sr_1_3) 
+:book: | [Kanban, David J. Anderson](https://www.amazon.com.br/Kanban-English-David-J-Anderson-ebook/dp/B0057H2M70?keywords=Lean+Kanban&qid=1524139637&sr=1-3&ref=sr_1_3)
 :book: | [Strategize: Product Strategy and Product Roadmap Practices for the Digital Age. Roman Pilcher](https://www.amazon.com.br/Strategize-Product-Strategy-Roadmap-Practices-ebook/dp/B01F749SF6?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Strategize&qid=1524139849&sr=1-1&ref=sr_1_1)
 :book: | [Reivente sua empresa, Jason Fried e David Heinemeier Hansson](https://www.amazon.com.br/Reinvente-sua-empresa-Jason-Fried-ebook/dp/B00A3CSMZK?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Reivente+sua+empresa&qid=1524139936&sr=1-1-fkmrnull&ref=sr_1_fkmrnull_1)
 :book: | [Implementando o Desenvolvimento Lean de Software, Mary Poppendieck e Tom Poppendieck](https://www.amazon.com.br/Implementando-Desenvolvimento-Lean-Software-Conceito-ebook/dp/B017AD8Z7E?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Implementando+o+Desenvolvimento+Lean+de+Software&qid=1524140070&sr=1-1-catcorr&ref=sr_1_1)
