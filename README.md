@@ -58,6 +58,8 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :book: | [Tame the Flow]()
 :book: | [Clean Code, Robert C. Martin (3 indicações)](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+code&qid=1524074051&sr=1-1&ref=sr_1_1) | :wrench: 
 :book: | [Selling to the VP of NO, Dave Gray](https://www.amazon.com/gp/product/B00X0436E0) | :heartpulse: | | Estratégias para criar confiança e convencer pessoas mais difíceis.
+:book: | [Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+:book: | [Kanban, David J. Anderson](https://www.amazon.com/gp/product/B0057H2M70/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 
 ## In Portuguese
 
