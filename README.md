@@ -56,10 +56,11 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :book: | [Extreme Ownership: How US Navy SEALs, Jocko Willink e Leif Babin](https://www.amazon.com.br/Extreme-Ownership-U-S-Navy-SEALs-ebook/dp/B0739PYQSS?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Extreme+Ownership%3A+How+US+Navy+SEALs&qid=1524140898&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [The Element: How Finding Your Passion Changes Everything, Ken Robinson](https://www.amazon.com.br/Element-Finding-Passion-Changes-Everything-ebook/dp/B001MSMUH0?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=The+Element%3A+How+Finding+Your+Passion+Changes+Everything&qid=1524140939&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [Tame the Flow]()
-:book: | [Clean Code, Robert C. Martin (3 indicações)](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+code&qid=1524074051&sr=1-1&ref=sr_1_1) | :wrench: 
+:book: | [Clean Code, Robert C. Martin (3 indicações)](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=clean+code&qid=1524074051&sr=1-1&ref=sr_1_1) | :wrench:
 :book: | [Selling to the VP of NO, Dave Gray](https://www.amazon.com/gp/product/B00X0436E0) | :heartpulse: | | Estratégias para criar confiança e convencer pessoas mais difíceis.
-:book: | [Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+:book: | [Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) | :heartpulse: | An investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand.
 :book: | [Kanban, David J. Anderson](https://www.amazon.com/gp/product/B0057H2M70/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
+:book: | [Disney U, Doug Lipp](https://www.amazon.com.br/dp/B00BDE68E4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | :heartpulse: | | Culture |
 
 ## In Portuguese
 
@@ -105,7 +106,7 @@ Tipo | Título | Domínios | É um Must? | Dentro do Assunto
 :book: | [Os 5 desafios das equipes, Patrick Lencioni](https://www.amazon.com.br/Os-5-desafios-das-equipes-ebook/dp/B017708Z5M?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Os+5+desafios+das+equipes&qid=1524140132&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [O poder do hábito, Charles Duhigg](https://www.amazon.com.br/poder-h%C3%A1bito-fazemos-vida-neg%C3%B3cios-ebook/dp/B00A3D10JE?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=O+poder+do+h%C3%A1bito+%28Charles+Duhigg%29&qid=1524140202&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [Antifragil, Nassim Nicholas Taleb](https://www.amazon.com.br/Antifr%C3%A1gil-Nassim-Nicholas-Taleb-ebook/dp/B0141LGDXG?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Antifragil&qid=1524140750&sr=1-1-catcorr&ref=sr_1_1)
-:book: | [Reinventando as Organizações. Um Guia Para Criar Organizações Inspiradas no Próximo Estágio da Consciência Humana, Frederic Laloux e Ken Wilber](https://www.amazon.com.br/Reinventando-Organiza%C3%A7%C3%B5es-Organiza%C3%A7%C3%B5es-Inspiradas-Consci%C3%AAncia/dp/8567886120) | :heartpulse: :school: | 
+:book: | [Reinventando as Organizações. Um Guia Para Criar Organizações Inspiradas no Próximo Estágio da Consciência Humana, Frederic Laloux e Ken Wilber](https://www.amazon.com.br/Reinventando-Organiza%C3%A7%C3%B5es-Organiza%C3%A7%C3%B5es-Inspiradas-Consci%C3%AAncia/dp/8567886120) | :heartpulse: :school: |
 :book: | [Transformação e Adoção Agile: Um Guia de Sobrevivência, Michael Sahota](https://www.infoq.com/br/adopting-agile/minibooks)
 :book: | [Agile Desenvolvimento de software com entregas frequentes e foco no valor de negócio, André Faria Gomes](https://www.amazon.com.br/Agile-Desenvolvimento-software-entregas-frequentes-ebook/dp/B00VABA98G?keywords=Agile+Desenvolvimento+de+software+com+entregas+frequentes+e+foco+no+valor+de+neg%C3%B3cio&qid=1524141115&sr=1-1-catcorr&ref=sr_1_1)
 :book: | [Como mudar o mundo, Jurgen Appelo](https://www.amazon.com.br/Como-Mudar-Mundo-Gest%C3%A3o-Mudan%C3%A7as-ebook/dp/B00AL690H2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=como+mudar+o+mundo&qid=1524141213&sr=1-1&ref=sr_1_1)
