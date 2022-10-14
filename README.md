@@ -61,6 +61,7 @@ Type | Title | Domains | Is a Must? | Inside of Topic
 :book: | [Antifragile: Things That Gain from Disorder, Nassim Nicholas Taleb](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680) | :heartpulse: | An investigation of opacity, luck, uncertainty, probability, human error, risk, and decision-making in a world we don’t understand.
 :book: | [Kanban, David J. Anderson](https://www.amazon.com/gp/product/B0057H2M70/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0)
 :book: | [Disney U, Doug Lipp](https://www.amazon.com.br/dp/B00BDE68E4/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) | :heartpulse: | | Culture |
+:book: | [Learning Partterns by Lydia Hallie and Addy Osmani](https://ia802209.us.archive.org/4/items/learning-patterns/learning-patterns-v1.1.pdf) | :heartpulse: :school: | :bangbang: | :heartpulse: :school: | :bangbang: | The fully compiled "Kanban Guide"
 
 ## In Portuguese
 
